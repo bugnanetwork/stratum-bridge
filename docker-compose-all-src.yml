@@ -10,7 +10,7 @@ services:
     user: "0"
     command:
       - '-stats=false'
-      - '-bugna=host.docker.internal:22110'
+      - '-bugna=host.docker.internal:38138'
     ports:
       - 5555:5555
       - 2114:2114
