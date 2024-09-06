@@ -1,6 +1,6 @@
 module github.com/bugnanetwork/bugna-stratum-bridge
 
-go 1.18
+go 1.20
 
 require (
 	github.com/bugnanetwork/bugnad v1.0.0
